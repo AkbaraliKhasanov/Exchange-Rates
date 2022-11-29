@@ -9,3 +9,9 @@
 - [LiveData ](https://developer.android.com/topic/libraries/architecture/livedata) - An observable data holder class.
 - [Room ](https://developer.android.com/training/data-storage/room) - An abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.
 - [Retrofit ](https://square.github.io/retrofit/) - Type-safe HTTP client for Android and Java by Square, Inc.
+
+## Donation
+
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+<a href="https://www.buymeacoffee.com/akbaralixaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
